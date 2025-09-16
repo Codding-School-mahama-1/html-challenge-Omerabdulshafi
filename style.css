@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(206, 160, 74);
+}
+
+p {
+    color: yellow;
+}
+
+summary {
+    color: lime;
+}
